@@ -1,0 +1,44 @@
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe.config
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\bin\Debug\ColorSorting.pdb
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csprojAssemblyReference.cache
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\MainWindow.g.cs
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\App.g.cs
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.cache
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.lref
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\MainWindow.baml
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.g.resources
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.Properties.Resources.resources
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csproj.GenerateResource.cache
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csproj.CoreCompileInputs.cache
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.exe
+C:\Google Drive\C# Stuff\ColorSorting\ColorSorting\obj\Debug\ColorSorting.pdb
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe.config
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.pdb
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csprojAssemblyReference.cache
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\MainWindow.g.cs
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\App.g.cs
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.cache
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.lref
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\MainWindow.baml
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.g.resources
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.Properties.Resources.resources
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csproj.GenerateResource.cache
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csproj.CoreCompileInputs.cache
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.exe
+C:\Users\AlexT\Desktop\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.pdb
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe.config
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.exe
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\bin\Debug\ColorSorting.pdb
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csprojAssemblyReference.cache
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\MainWindow.g.cs
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\App.g.cs
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.cache
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting_MarkupCompile.lref
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\MainWindow.baml
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.g.resources
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.Properties.Resources.resources
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.csproj.GenerateResource.cache
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.exe
+C:\Google Drive\C# Stuff\ColorSorting-20191223T221737Z-001\ColorSorting\ColorSorting\obj\Debug\ColorSorting.pdb

@@ -1,0 +1,54 @@
+﻿<Window x:Class="ColorSorting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorSorting"
+        mc:Ignorable="d" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen"
+        Title="Color Sort" Height="820" Width="1200" Background="LightSteelBlue">
+    <Grid Margin="10" KeyDown="Grid_KeyDown">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="705"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" VerticalAlignment="Bottom">Selection</Label>
+        <ListView Grid.Column="0" Grid.Row="1" ItemsSource="{Binding Selection}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="1" Grid.Row="0" VerticalAlignment="Bottom">Insertion</Label>
+        <ListView Grid.Column="1" Grid.Row="1" ItemsSource="{Binding Insertion}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="2" Grid.Row="0" VerticalAlignment="Bottom">Heap</Label>
+        <ListView Grid.Column="2" Grid.Row="1" ItemsSource="{Binding Heap}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="3" Grid.Row="0" VerticalAlignment="Bottom">Bubble</Label>
+        <ListView Grid.Column="3" Grid.Row="1" ItemsSource="{Binding Bubble}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="4" Grid.Row="0" VerticalAlignment="Bottom">Cocktail</Label>
+        <ListView Grid.Column="4" Grid.Row="1" ItemsSource="{Binding Cocktail}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="5" Grid.Row="0" VerticalAlignment="Bottom">(TO FIX) Circle</Label>
+        <ListView Grid.Column="5" Grid.Row="1" ItemsSource="{Binding Circle}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="6" Grid.Row="0" VerticalAlignment="Bottom">(TO DO) Merge</Label>
+        <ListView Grid.Column="6" Grid.Row="1" ItemsSource="{Binding Merge}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="7" Grid.Row="0" VerticalAlignment="Bottom">(TO DO) Quick</Label>
+        <ListView Grid.Column="7" Grid.Row="1" ItemsSource="{Binding Quick}" HorizontalContentAlignment="Stretch"></ListView>
+
+        <Label Grid.Column="8" Grid.Row="0" VerticalAlignment="Bottom">(TO FIX) Shell</Label>
+        <ListView Grid.Column="8" Grid.Row="1" ItemsSource="{Binding Shell}" HorizontalContentAlignment="Stretch"></ListView>
+    </Grid>
+</Window>
